@@ -1,0 +1,19 @@
+body
+{
+	text-align: center;
+    background-color: indigo;
+}
+h3
+{
+    color: orange;
+}
+#text
+{
+	font-size: 12px;
+	color: orange;
+}
+canvas
+{
+	background-color: orange;
+	border-radius: 20px;
+}
